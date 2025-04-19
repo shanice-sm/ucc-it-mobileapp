@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">UCC MobileApp</string>
+    <string name="admissions">Admissions</string>
+    <string name="to_join_the_it_department_applicants_must_meet_the_following_requirements">To join the IT Department, applicants must meet the following requirements:</string>
+    <string name="_5_csec_subjects_including_mathematics_and_english_n_an_interest_in_computers_and_technology_n_a_completed_application_form">• 5 CSEC subjects including Mathematics and English\n• An interest in computers and technology\n• A completed application form</string>
+    <string name="for_full_details_visit_the_admissions_page">For full details, visit the Admissions page:</string>
+    <string name="https_ucc_edu_jm_apply_undergraduate">https://ucc.edu.jm/apply/undergraduate</string>
+    <string name="available_courses">Available Courses</string>
+    <string name="facebook">Facebook</string>
+    <string name="instagram">Instagram</string>
+    <string name="ucc_logo">UCC Logo</string>
+    <string name="ucc_it_department_resource_center">UCC IT Department Resource Center</string>
+    <string name="select_a_section_to_explore">Select a section to explore:</string>
+    <string name="staff_directory">Staff Directory</string>
+    <string name="courses">Courses</string>
+    <string name="email_hod">Email HOD</string>
+    <string name="twitter">Twitter</string>
+    <string name="search_here">Search here...</string>
+    <string name="search_icon">Search Icon</string>
+    <string name="course_code">Course Code</string>
+    <string name="course_name">Course Name</string>
+    <string name="credits">Credits</string>
+    <string name="prerequisites">Prerequisites</string>
+    <string name="description">Description</string>
+    <string name="email_it_hod_ucc_edu_jm">Email: ithod@ucc.edu/jm</string>
+    <string name="staff_name">Staff Name</string>
+    <string name="staff_position">Staff Position</string>
+    <string name="phone_1_876_906_3000">Phone: +1 876 906-3000</string>
+</resources>
